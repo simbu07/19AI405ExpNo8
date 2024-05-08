@@ -1,12 +1,12 @@
-# ExpNo 8 : Solve Cryptarithmetic Problem,a CSP (Constraint Satisfaction Problem) using Python
-Name: Silambaarsan K
+<h2 align= center>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP (Constraint Satisfaction Problem) using Python</h2> 
 
-Register Number:212221230101
-
-## Aim:
+#### Name: Silambaarsan K
+#### Register Number:212221230101
+#### Date: 05/04/2024
+### Aim:
 
 To solve Cryptarithmetic Problem,a CSP (Constraint Satisfaction Problem) using Python
-## Procedure:
+### Procedure:
 Input and Output
 
 Input: This algorithm will take three words.
@@ -109,7 +109,7 @@ else:
     print("No solution found.")
 ```
 
-## Sample Input and Output:
+### Sample Input and Output:
 SEND = 9567
 
 MORE = 1085
@@ -118,5 +118,5 @@ MORE = 1085
 MONEY = 10652
 
 ----------
-## Result:
+### Result:
 Thus the Cryptarithmetic Problem was solved using Python successfully
